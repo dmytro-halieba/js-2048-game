@@ -4,7 +4,7 @@ A logic-based puzzle game built with Pure Vanilla JavaScript and Object-Oriented
 
 ## Live Demo 🚀
 
-[👉 Play 2048 Here](https://dmytro-halieba.github.io/js_2048_game/)
+[👉 Play 2048 Here](https://dmytro-halieba.github.io/js-2048-game/)
 
 ## Features ✨
 
